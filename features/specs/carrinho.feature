@@ -1,5 +1,5 @@
 #language: pt
-@feature-tag
+@feature-tag-carrinho
 Funcionalidade: Carrinho de compras
 
   @scenario-tag-carrinho
